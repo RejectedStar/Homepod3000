@@ -1,6 +1,6 @@
 # DIY Alexa with ESP32 and Wit.ai
 
-Welcome to the DIY Alexa project! This guide will walk you through the process of building your own Alexa-like voice assistant using the ESP32 microcontroller and Wit.ai for speech recognition. By the end of this project, you will have a fully functional voice assistant capable of recognizing voice commands and executing tasks.
+Welcome to my DIY Alexa project! This guide will walk you through the process of building your own Alexa-like voice assistant using the ESP32 microcontroller and Wit.ai for speech recognition. By the end of this project, you will have a fully functional voice assistant capable of recognizing voice commands and executing tasks.
 
 ## Table of Contents
 
@@ -317,7 +317,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue on GitHub or contact the project maintainers.
+If you encounter any issues or have questions, please open an issue on GitHub or contact me.
 
 ---
 
